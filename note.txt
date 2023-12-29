@@ -1,0 +1,13 @@
+Git is a version control;
+Git hub is a cloud based platform on which we can upload our code;
+
+mkdir newdir name;
+ls for list of directoties on linux and dir for list of directories on windows;
+cd means change dir;
+touch for making new file;
+
+Four stages on git:
+Tracked, untracked, modified, staged;
+
+for staging "git config --global user.name "THE use name";
+to add a file to we can use git add <file name>
